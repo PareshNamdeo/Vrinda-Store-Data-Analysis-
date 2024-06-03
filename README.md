@@ -1,1 +1,1 @@
-# Vrinda-Store-Data-Analysis-
+SQL Project
